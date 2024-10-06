@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
