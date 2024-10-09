@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
