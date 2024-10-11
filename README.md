@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
