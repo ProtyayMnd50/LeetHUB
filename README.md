@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -25,15 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
