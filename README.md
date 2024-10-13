@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -88,6 +92,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Sliding Window
+|  |
+| ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 <!---LeetCode Topics End-->
