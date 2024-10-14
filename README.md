@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
