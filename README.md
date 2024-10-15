@@ -110,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0595-big-countries) |
+| [1827-invalid-tweets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
