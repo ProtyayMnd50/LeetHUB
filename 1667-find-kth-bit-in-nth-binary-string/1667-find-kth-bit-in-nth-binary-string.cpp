@@ -1,19 +1,9 @@
 class Solution {
 public:
-    char findKthBit(int n, int k) {
-        int invert = 0;
-        int len = (1 << n) - 1;
-        
-        while (k > 1) {
-            if (k == len / 2 + 1) {
-                return invert % 2 == 0 ? '1' : '0';
-            } else if (k > len / 2 + 1) {
-                k = len - k + 1;
-                invert++;
-            }
-            len = len / 2;
-        }
-        
-        return invert % 2 == 0 ? '0' : '1';
+    char findKthBit(int n, unsigned k) {
+        if (k==1) return '0';
+        bool one=1;
+        for(; k!=bit_ceil(k); k=bit_ceil(k)-k, one=!one);
+        return '0'+ one^ (k==1);
     }
 };
