@@ -4,11 +4,6 @@ select sn.user_id,cnf.action from
 Signups sn left join Confirmations cnf
 on sn.user_id=cnf.user_id
 ),
-tab1 as
-(
-select user_id,count(user_id) from Confirmations
-group by user_id
-),
 tab2 as
 (
 select user_id,
