@@ -7,9 +7,9 @@ WITH tab1 AS (
 ),
 tab2 AS (
     SELECT product_id,
-           SUM(price * COALESCE(units, 0)) AS tot,
+           SUM(price * IFNULL(units, 0)) AS tot,
            COUNT(product_id) AS count_product_id,
-           SUM(COALESCE(units, 0)) AS den  
+           SUM(IFNULL(units, 0)) AS den  
     FROM tab1
     GROUP BY product_id
 )
