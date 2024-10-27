@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1923-sentence-similarity-iii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
