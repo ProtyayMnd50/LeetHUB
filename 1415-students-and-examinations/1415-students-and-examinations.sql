@@ -46,7 +46,7 @@ SELECT
     COALESCE(COUNT(e.subject_name), 0) AS attended_exams
 FROM 
     Students s
-CROSS JOIN 
+JOIN 
     Subjects subj
 LEFT JOIN 
     Examinations e 
