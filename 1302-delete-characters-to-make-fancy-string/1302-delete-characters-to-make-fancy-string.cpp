@@ -2,40 +2,25 @@ class Solution {
 public:
     string makeFancyString(string s) {
         int n=s.size();
-        vector<char>str;
-        for(auto &x:s)
-        str.push_back(x);
-
         int i=0;
         string res="";
-        for(;i<str.size();){
+        while(i<s.size()){
             int j=i;
             int cnt=0;
-            while(j<str.size()&&str[i]==str[j]){
+            while(j<s.size()&&s[i]==s[j]){
                 j++;
                 cnt++;
             }
-            cnt=j-i;
             if(cnt>=3){
-                // for(int k=i+2;k<min(j,n);k++){
-                //     str[i]='^';
-                // }
-                res+=str[i];
-                res+=str[i+1];
-                // cout<<i+2<<"\n";
+                res+=s[i];
+                res+=s[i+1];
             }else{
-                res+=str[i];
+                res+=s[i];//cnt>=1
                 if(cnt==2)
-                res+=str[i+1];
+                res+=s[i+1];
             }
-            // cout<<cnt<<" ";
-            // cout<<i<<" "<<j-1<<"\n";
             i=j;
-            
         }
-      for(auto &x:res)
-      cout<<x;
-
         return res;
     }
 };
