@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -228,9 +231,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
 ## Counting
 |  |
