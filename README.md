@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
