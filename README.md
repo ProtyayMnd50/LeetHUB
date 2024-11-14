@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
