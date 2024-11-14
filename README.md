@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [1940-maximum-xor-for-each-query](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3291-find-if-array-can-be-sorted) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Database
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Number Theory
 |  |
 | ------- |
