@@ -278,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
