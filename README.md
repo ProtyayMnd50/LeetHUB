@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0787-sliding-puzzle) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3058-maximum-number-of-k-divisible-components) |
