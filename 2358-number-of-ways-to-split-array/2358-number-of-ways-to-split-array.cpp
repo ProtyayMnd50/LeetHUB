@@ -1,14 +1,16 @@
+#define ll long long
 class Solution {
 public:
-    static int waysToSplitArray(vector<int>& nums) {
-        const int n=nums.size();
-        long long sum=accumulate(nums.begin(), nums.end(), 0LL);
-        long long acc=0LL;
-        int cnt=0;
-        for(int i=0; i<n-1; i++){
-            acc+=nums[i];
-            cnt+=(2*acc>=sum);
+    int waysToSplitArray(vector<int>& nums) {
+        ll tot=accumulate(nums.begin(),nums.end(),0ll);
+        ll p1=0;
+        int ans=0;
+        for(int i=0;i<nums.size()-1;i++){
+            p1+=nums[i];
+            ll p2=tot-p1;
+            if(p1>=p2)
+            ans++;
         }
-        return cnt;
+        return ans;
     }
 };
