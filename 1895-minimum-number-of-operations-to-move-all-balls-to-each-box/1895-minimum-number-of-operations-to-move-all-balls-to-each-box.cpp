@@ -1,26 +1,23 @@
+#define nl "\n"
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-        int n = boxes.size();
-        vector<int> left(n, 0), right(n, 0), res(n, 0);
-        int count = (boxes.at(0) == '1' ? 1 : 0);
-
-        for (int i = 1; i < n; i++) {
-            left[i] = left[i - 1] + count;
-            count += (boxes.at(i) == '1' ? 1 : 0);
+        // int ans=0;
+        int n=boxes.size();
+        vector<int>full;//stores indexes of full boxes
+        for(int i=0;i<n;i++){
+            if(boxes[i]=='1')full.push_back(i);
         }
-
-        count = (boxes.at(n-1) == '1' ? 1 : 0);
-
-        for (int i = n - 2; i >= 0; i--) {
-            right[i] = right[i + 1] + count;
-            count += (boxes.at(i) == '1' ? 1 : 0);
+       
+        vector<int>ans;
+        for(int i=0;i<n;i++){
+            int jmp=0;
+            for(int j=0;j<full.size();j++){
+                jmp+=abs(i-full[j]);
+            }
+            ans.push_back(jmp);
         }
-
-        for (int i = 0; i < n; i++) {
-            res[i] = left[i] + right[i];
-        }
-
-        return res;
+        // cout<<ans<<nl;
+        return ans;
     }
 };
