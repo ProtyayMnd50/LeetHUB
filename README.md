@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0787-sliding-puzzle) |
+| [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1025-minimum-cost-for-tickets) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1940-maximum-xor-for-each-query) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
+| [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1302-delete-characters-to-make-fancy-string) |
