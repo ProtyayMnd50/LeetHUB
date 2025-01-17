@@ -1,13 +1,13 @@
 class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
-        int c = 0;
-        int n = pref.length();
-        for (const string& w : words) {
-            if (w.size() >= n && w.compare(0, n, pref) == 0) {
-                c++;
-            }
+        int ans=0;
+        for(int i=0;i<words.size();i++){
+            int pos=words[i].find(pref);
+            if(pos==0)
+            ans++;
         }
-        return c;
+        cout<<ans<<endl;
+        return ans;
     }
 };
