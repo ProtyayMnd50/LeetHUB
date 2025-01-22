@@ -1,20 +1,20 @@
 class Solution {
 public:
     bool canConstruct(string s, int k) {
-        unordered_map<char, int> M;
-        int Single = 0;
+        if(s.size()==k)return true;
+        if(s.size()<k)return false;
 
-        // Count frequencies of each character
-        for (char c : s) {
-            M[c]++;
-        }
+        unordered_map<char,int>mp;
+        for(auto &x:s)
+        mp[x]++;
 
-        // Count pairs and singles
-        for (auto &[ch, freq] : M) {
-            if (freq % 2 == 1) {
-                Single++; // Count remaining single characters
-            }
+        int odf=0;//odd frequencies
+        for(auto &x:mp){
+            if(x.second&1)odf++;
         }
-        return (Single <= k && k <= s.size());
+        
+        return (k>=odf)? true: false;
+
+
     }
 };
