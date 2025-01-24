@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3189-find-champion-ii) |
@@ -493,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
