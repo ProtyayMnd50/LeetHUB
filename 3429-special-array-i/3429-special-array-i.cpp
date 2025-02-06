@@ -1,13 +1,15 @@
 class Solution {
 public:
     bool isArraySpecial(vector<int>& nums) {
-        for(int i=0;i<nums.size()-1;i++)
-        {
-            if(nums[i]%2==0 && nums[i+1]%2==0 || nums[i]%2!=0 && nums[i+1]%2!=0)
-            {
-                return false;
-            }
-        }
-        return true;
+      int n=nums.size();
+      if(n==1)
+      return true;
+
+      for(int i=0;i<n-1;i++){
+        int pr=nums[i]+nums[i+1];
+        if(pr%2==0)
+        return false;
+      }  
+      return true;
     }
 };
