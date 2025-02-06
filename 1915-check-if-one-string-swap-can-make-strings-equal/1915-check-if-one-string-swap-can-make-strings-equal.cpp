@@ -1,18 +1,24 @@
 class Solution {
 public:
-    bool areAlmostEqual(string& s1, string& s2) {
-        const int n=s1.size();
-        int cntD=0, i;
-        array<char, 2> D={0};
-        for(i=0; i<n && cntD<=2; i++){
-            char x=s1[i], y=s2[i];
-            if (x!=y){
-                cntD++;
-                if (cntD>2 ||(cntD==2 && (D[0]!=y || D[1]!=x )))
-                    return 0;
-                D={x, y};
+    bool areAlmostEqual(string s1, string s2) {
+        int n=s1.size();
+        map<pair<char,char>,int>mp;
+        for(int i=0;i<n;i++){
+            if(s1[i]!=s2[i]){
+                mp[{s1[i],s2[i]}]++;
             }
         }
-        return cntD==0 || cntD==2;
+        if(mp.empty())return true;
+        else if(mp.size()==2){
+            for(auto &x:mp){
+                char fe=x.first.first;
+                char se=x.first.second;
+                if(mp[{fe,se}]==1&&mp[{se,fe}]==1)return true;
+                else return false;
+            }
+        }else
+        return false;
+
+        return true;
     }
 };
