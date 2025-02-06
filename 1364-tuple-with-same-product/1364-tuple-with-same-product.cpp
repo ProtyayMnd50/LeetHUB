@@ -5,10 +5,7 @@ public:
         map<int,int> mp;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(nums[i]!=nums[j]){
-                    int prd=nums[i]*nums[j];
-                    mp[prd]++;
-                }
+                mp[nums[i]*nums[j]]++;
             }
         }
         int cnt=0;
@@ -20,7 +17,6 @@ public:
             int freq=x.second/2;
             int perm=freq*(freq-1);
             perm>>=1;
-            cout<<perm<<endl;
             ans+=perm*8;
             }
         }
