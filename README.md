@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0162-find-peak-element) |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0407-trapping-rain-water-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
