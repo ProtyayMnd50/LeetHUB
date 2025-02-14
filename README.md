@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1364-tuple-with-same-product) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1940-maximum-xor-for-each-query) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -549,5 +552,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
