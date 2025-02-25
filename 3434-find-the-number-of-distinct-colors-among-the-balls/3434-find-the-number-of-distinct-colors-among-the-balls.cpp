@@ -2,16 +2,16 @@ class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
         map<int,int>balls;//konsa color ith ball pe (ball is the key)
-        map<int,vector<int>>color;//konsa ball is colored by color i(color is the key)
+        map<int,int>color;//ek color kitne balls pe laga hai
         vector<int>res;
         for(auto &x:queries){
             int bl=x[0];
             int cl=x[1];
-            int prevcol=balls[bl];//previous color on the ball
-            if(color[prevcol].size())color[prevcol].pop_back();
-            if(color[prevcol].size()==0)color.erase(prevcol);
+            int prevcol=balls[bl];//previous color on the ball that existed
+            if(color[prevcol])color[prevcol]--;//if conflicting color
+            if(!color[prevcol])color.erase(prevcol);//color not coloring any ball
             balls[bl]=cl;
-            color[cl].push_back(bl);
+            color[cl]++;
             res.push_back(color.size());
         }
 
