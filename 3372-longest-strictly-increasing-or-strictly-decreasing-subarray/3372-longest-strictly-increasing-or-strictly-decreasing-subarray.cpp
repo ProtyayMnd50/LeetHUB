@@ -8,15 +8,14 @@ public:
             if(nums[i]<nums[i+1]){
                 decr=1;
                 incr++;
-                ans=max({incr,decr,ans});
             }else if(nums[i]>nums[i+1]){
                 incr=1;
                 decr++;
-                ans=max({incr,decr,ans});
             }else{
                 incr=1;
                 decr=1;
             }
+             ans=max({incr,decr,ans});
             i++;
         }
         return ans;
