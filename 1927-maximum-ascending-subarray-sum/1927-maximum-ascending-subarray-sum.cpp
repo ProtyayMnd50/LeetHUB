@@ -1,28 +1,23 @@
+#define ll long long
 class Solution {
 public:
     int maxAscendingSum(vector<int>& nums) {
-       int n=nums.size();
-       if(n==1)return nums.front();
-       int l=0,r=1;
-       int sum=0;
-       int mx=0;
-       while(r<n){
-        if(nums[r-1]<nums[r]){
-            sum+=nums[r-1];
-            if(r==n-1)
+        int l=1,r=1;
+        int prev=nums.front();
+        ll sum=nums.front();
+        ll ans=nums.front();
+      while(r<nums.size()){
+        if(prev<nums[r]){
             sum+=nums[r];
-            r++;
-            mx=max(mx,sum);
-            cout<<sum<<endl;
+            prev=nums[r];
         }else{
-             sum+=nums[r-1];
-             mx=max(mx,sum);
-            cout<<sum<<endl;
             l=r;
-            r=l+1;
-            sum=0;  
+            sum=nums[r];
+            prev=nums[r];
         }
-       }
-       return mx; 
+        ans=max(ans,sum);
+        r++;
+      } 
+      return ans;
     }
 };
