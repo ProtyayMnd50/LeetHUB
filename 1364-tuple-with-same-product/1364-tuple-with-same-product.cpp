@@ -11,7 +11,7 @@ public:
         }
         int ans=0;
         for(auto &x:mp){
-            // cout<<x.first<<"->"<<x.second<<endl;
+            // cout<<x.first<<"->"<<x.second<<"\n";
             int freq=x.second;
             int comb=freq*(freq-1);
             comb>>=1;
