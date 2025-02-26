@@ -1,8 +1,8 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-        map<int,int>balls;//konsa color ith ball pe (ball is the key)
-        map<int,int>color;//ek color kitne balls pe laga hai
+        unordered_map<int,int>balls;//konsa color ith ball pe (ball is the key)
+        unordered_map<int,int>color;//ek color kitne balls pe laga hai
         vector<int>res;
         for(auto &x:queries){
             int bl=x[0];
