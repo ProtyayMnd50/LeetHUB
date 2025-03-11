@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
