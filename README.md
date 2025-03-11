@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0787-sliding-puzzle) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1025-minimum-cost-for-tickets) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
