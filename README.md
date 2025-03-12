@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2358-number-of-ways-to-split-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2551-apply-operations-to-an-array) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
