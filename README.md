@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1972-rotating-the-box) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2107-find-unique-binary-string) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1972-rotating-the-box) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2145-grid-game) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
