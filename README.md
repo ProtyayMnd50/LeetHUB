@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2300-construct-string-with-repeat-limit) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0922-possible-bipartition) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -646,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0820-find-eventual-safe-states) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
 | ------- |
