@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0952-word-subsets) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
