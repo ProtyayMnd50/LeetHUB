@@ -1,11 +1,9 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        int res = 1;
-        while (res < n) {
-           res<<=1;
-           res|=1;
-        }
+        // int bit_count = static_cast<int>(floor(log2(n))) + 1;
+        int binDigs=floor(log2(n))+1;
+        int res = (1 << binDigs) - 1;
         return res;
     }
 };
