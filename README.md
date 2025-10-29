@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
+| [0412-fizz-buzz](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0952-word-subsets) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2232-adding-spaces-to-a-string) |
