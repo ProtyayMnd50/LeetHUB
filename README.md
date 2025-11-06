@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
