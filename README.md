@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3637-trionic-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
