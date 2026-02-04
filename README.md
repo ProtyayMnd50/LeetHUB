@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3640-trionic-array-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3640-trionic-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
