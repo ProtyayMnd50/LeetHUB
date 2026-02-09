@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1304-longest-happy-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1829-maximum-units-on-a-truck) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-flip-equivalent-binary-trees](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0347-top-k-frequent-elements) |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -712,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
