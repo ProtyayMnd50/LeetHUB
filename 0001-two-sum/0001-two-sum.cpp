@@ -5,22 +5,18 @@ using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        map<int, pair<int, int>> mp;
+        unordered_map<int, int> mp;
+        vector<int> result(2, 0);
         for (int i = 0; i < nums.size(); i++) {
-            mp[nums[i]].first++;
-            mp[nums[i]].second = i;
-        }
-        vector<int> res(2);
-        for (int i = 0; i < nums.size(); i++) {
-            if (mp[target - nums[i]].second != i &&
-                mp[target - nums[i]].first) {
-                res[0] = i;
-                res[1] = mp[target - nums[i]].second;
+            int x = target - nums[i];
+          
+            if (mp.find(x)!=mp.end()&&mp[x] !=i) {
+                result[0] = i;
+                result[1] = mp[x];
                 break;
             }
+              mp[nums[i]] = i;
         }
-        for (auto& x : res)
-            cout << x << " ";
-        return res;
+        return result;
     }
 };
