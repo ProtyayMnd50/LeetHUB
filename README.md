@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0162-find-peak-element) |
+| [0238-product-of-array-except-self](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0407-trapping-rain-water-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0878-shifting-letters) |
