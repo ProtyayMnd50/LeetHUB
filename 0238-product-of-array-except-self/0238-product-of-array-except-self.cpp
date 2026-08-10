@@ -2,29 +2,22 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n=nums.size();
-        vector<int>pfx(n);
-        vector<int>sfx(n);
-
-        pfx.front()=nums.front();
-        sfx.back()=nums.back();
-
-        for(int i=i=1;i<n;i++)
-            pfx[i]=pfx[i-1]*nums[i];
-
-        for(int i=max(n-2,0);i>=0;i--)
-            sfx[i]=sfx[i+1]*nums[i];
-
-        vector<int>ans(n);
-        for(int i=0;i<n;i++){
+        vector<int>ans(n);//intially ans stores the left suffix
+        ans.front()=nums.front();
+        for(int i=1;i<nums.size();i++)
+            ans[i]=ans[i-1]*nums[i];
+        
+        int rfx=1;
+        for(int i=n-1;i>=0;i--){
             if(i==0)
-            ans[i]=sfx[i+1];
-            else if(i==n-1)
-            ans[i]=pfx[max(i-1,0)];
+            ans[i]=rfx;
             else
-            ans[i]=pfx[i-1]*sfx[i+1];
+            ans[i]=ans[i-1]*rfx;
+            rfx*=nums[i];
         }
-        for(auto &x:ans)cout<<x<<" ";
 
+        for(auto &x:ans)
+        cout<<x<<" ";
         return ans;
     }
 };
