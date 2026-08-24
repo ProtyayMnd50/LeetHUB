@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1829-maximum-units-on-a-truck](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 | [1876-map-of-highest-peak](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0877-stone-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2716-prime-subtraction-operation) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 | [2164-two-best-non-overlapping-events](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ProtyayMnd50/LeetHUB/tree/master/2562-count-ways-to-build-good-strings) |
@@ -735,12 +739,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
