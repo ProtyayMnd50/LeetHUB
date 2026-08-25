@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3637-trionic-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3640-trionic-array-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
