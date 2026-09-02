@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3640-trionic-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3626-smallest-divisible-digit-product-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ProtyayMnd50/LeetHUB/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
