@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0812-rotate-string) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ProtyayMnd50/LeetHUB/tree/master/0518-coin-change-ii) |
